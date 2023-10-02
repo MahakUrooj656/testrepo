@@ -1,1 +1,1 @@
-Airbyte supports 4 sync modes.
+Airbyte supports 4 sync modes.Full Refresh append/overwrite, Incremental append/deduped
